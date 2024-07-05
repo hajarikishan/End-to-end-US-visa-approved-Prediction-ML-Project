@@ -7,4 +7,5 @@ In this project, I utilise a few features along with full Machine Learning Pipel
 1. Anaconda: https://www.anaconda.com,
 2. Git: https://git-scm.com,
 3. MLOPS tool: https://www.evidentlyai.com
+4. MongoDB: https://account.mongodb.com/account/login
 
